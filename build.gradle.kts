@@ -4,7 +4,7 @@ plugins {
 	id("org.springframework.boot") version "3.1.3"
 	id("io.spring.dependency-management") version "1.1.3"
 	id("org.graalvm.buildtools.native") version "0.9.24"
-	id("com.ncorti.ktfmt.gradle") version "0.12.0"
+	id("com.ncorti.ktfmt.gradle") version "0.13.0"
 	kotlin("jvm") version "1.9.0"
 	kotlin("plugin.spring") version "1.9.0"
 }
